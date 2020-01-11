@@ -1,0 +1,53 @@
+header{
+    background-color: black;
+    color: white;
+}
+footer{
+    background-color: darkgray;
+    color: black;
+    clear: both;
+}
+main {
+    background-color: wheat;
+}
+h2 {
+    margin: 0%;
+    border: 2px solid #000000;
+    margin-left: 10px;
+}
+div {
+    float: left;
+    height: 60%;
+    width: 44%;
+    padding: 0%;
+}
+p {
+    float: right;
+
+}
+section{
+    
+    margin-left: 10px;
+    border-bottom: 2px solid black;
+    border-left:2px solid black ;
+    border-right:2px solid black ;
+    padding: 0%;
+}
+.buy{
+    margin-left:250px;
+}
+.cancel2{
+    margin-left: 230px;
+}
+.cancel1{
+    margin-left: 230px;
+}
+img{
+    padding: 10px;
+}
+button{
+    
+     clear: both;
+    display: inline; 
+    margin-left: 10%; 
+}
